@@ -1,2 +1,0 @@
-webpackJsonp([5],{UGTQ:function(e,t){},hi0L:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement;return(this._self._c||e)("div",[this._v("LayoutHeader")])},staticRenderFns:[]};var u=n("VU/8")({name:"LayoutHeader",mounted:function(){},methods:{}},r,!1,function(e){n("UGTQ")},null,null);t.default=u.exports}});
-//# sourceMappingURL=5.35e23e7ec2d71f05647f.js.map

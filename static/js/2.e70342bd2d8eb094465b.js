@@ -1,2 +1,0 @@
-webpackJsonp([2],{AejC:function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement;return(this._self._c||e)("div",[this._v("\n404\n  ")])},staticRenderFns:[]};var u=t("VU/8")({name:"page404",mounted:function(){},methods:{}},r,!1,function(e){t("DvtD")},null,null);n.default=u.exports},DvtD:function(e,n){}});
-//# sourceMappingURL=2.e70342bd2d8eb094465b.js.map
