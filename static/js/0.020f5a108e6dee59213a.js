@@ -1,0 +1,2 @@
+webpackJsonp([0],{lMRu:function(t,e,n){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var a={render:function(){var t=this.$createElement,e=this._self._c||t;return e("div",{staticClass:"hello"},[e("el-button",{attrs:{type:"primary"}},[this._v("表单组合")])],1)},staticRenderFns:[]};var r=n("VU/8")({data:function(){return{}}},a,!1,function(t){n("w9Xa")},"data-v-e6440d86",null);e.default=r.exports},w9Xa:function(t,e){}});
+//# sourceMappingURL=0.020f5a108e6dee59213a.js.map

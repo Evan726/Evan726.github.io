@@ -1,0 +1,2 @@
+webpackJsonp([4],{SZpN:function(t,e,n){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var r={render:function(){var t=this.$createElement,e=this._self._c||t;return e("div",{staticClass:"hello"},[e("el-button",{attrs:{type:"primary"}},[this._v("主要按钮")])],1)},staticRenderFns:[]};var a=n("VU/8")({data:function(){return{}}},r,!1,function(t){n("ZiuZ")},"data-v-46c6405e",null);e.default=a.exports},ZiuZ:function(t,e){}});
+//# sourceMappingURL=4.094559941edda9ef07fe.js.map

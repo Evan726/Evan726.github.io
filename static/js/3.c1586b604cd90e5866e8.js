@@ -1,0 +1,2 @@
+webpackJsonp([3],{LkOT:function(t,e,n){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var r={render:function(){var t=this.$createElement,e=this._self._c||t;return e("div",{staticClass:"hello"},[e("el-button",{attrs:{type:"primary"}},[this._v("编辑器")])],1)},staticRenderFns:[]};var a=n("VU/8")({data:function(){return{}}},r,!1,function(t){n("Q8fT")},"data-v-4c96e89c",null);e.default=a.exports},Q8fT:function(t,e){}});
+//# sourceMappingURL=3.c1586b604cd90e5866e8.js.map
